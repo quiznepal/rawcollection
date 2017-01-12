@@ -1,6 +1,11 @@
 {
 	"info" : {},
-	"correctAns" : {
-		"mjt" : "https://www.facebook.com/manish.j.thapa"
-	}
+	"correctAns" : [
+		{"name":"mjt",
+		"profile" : "https://www.facebook.com/manish.j.thapa"
+		},
+		{"name":"xyz",
+		"profile" : "https://www.facebook.com/manish.j.thapa"
+		}
+	]
 }
