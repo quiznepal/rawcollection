@@ -1,14 +1,331 @@
 {
 	"info" : {},
 	"correctAns" : [
-		{"name":"mjt",
-		"profile" : "https://www.facebook.com/manish.j.thapa"
+		{
+			"name": "Ashish",
+			"id": "716494571812993"
 		},
-		{"name":"xyz",
-		"profile" : "https://www.facebook.com/manish.j.thapa"
+
+		{
+			"name": "Sonia Louisa",
+			"id": "295104644223410"
 		},
-		{"name":"xyz3",
-		"profile" : "https://www.facebook.com/manish.j.thapa"
+
+		{
+			"name": "Anne-Marie Tamang",
+			"id": "888746031148379"
+		},
+
+		{
+			"name": "Natsu Dura",
+			"id": "367160663455472"
+		},
+
+		{
+			"name": "Tanzo Limbu",
+			"id": "831902826876143"
+		},
+
+
+		{
+			"name": "Rupace S Sunar",
+			"id": "185836921805293"
+		},
+
+		{
+			"name": "Kishan Maharjan",
+			"id": "930750553637023"
+		},
+
+		{
+			"name": "Anmol Agarwal",
+			"id": "939563689433781"
+		},
+
+		{
+			"name": "Bhu-san Thapa Magar",
+			"id": "752090981549420"
+		},
+
+		{
+			"name": "V Vëk MåhÖrjön",
+			"id": "146996518970203"
+		},
+
+		{
+			"name": "Magar Abisheak",
+			"id": "1601295020085517"
+		},
+
+		{
+			"name": "Arjun Chhetri",
+			"id": "600162586796455"
+		},
+
+		{
+			"name": "Meena Lama",
+			"id": "1609112142643597"
+		},
+
+		{
+			"name": "Killua Kun",
+			"id": "726956330673387"
+		},
+
+		{
+			"name": "Suzeet",
+			"id": "705369652865579"
+		},
+
+		{
+			"name": "Rin Dotoka",
+			"id": "224108537952388"
+		},
+
+		{
+			"name": "Rãi Suźuše Chän",
+			"id": "196952693991489"
+		},
+
+		{
+			"name": "Nickace Ratna Tuladhar",
+			"id": "1633249283561626"
+		},
+
+		{
+			"name": "Zaherah Dingcong Grande",
+			"id": "131366847282622"
+		},
+
+		{
+			"name": "Isha Thapa",
+			"id": "731324640270495"
+		},
+
+		{
+			"name": "Cutee Reema",
+			"id": "738219386289526"
+		},
+
+		{
+			"name": "Sulav Shrestha",
+			"id": "10201704839685962"
+		},
+
+		{
+			"name": "Dôlmà DôNg",
+			"id": "864666236921506"
+		},
+
+		{
+			"name": "Gaurav Kharel",
+			"id": "297837683726649"
+		},
+
+		{
+			"name": "Ronish Subba",
+			"id": "1581989872053827"
+		},
+
+		{
+			"name": "संजोग्ता थापा मगर",
+			"id": "10200272575173933"
+		},
+
+		{
+			"name": "Bıjıt Pökharëł",
+			"id": "563371600469733"
+		},
+
+		{
+			"name": "PrObuna Prazaptea",
+			"id": "1684465635108519"
+		},
+
+		{
+			"name": "Kaushal Shrestha",
+			"id": "892445937449215"
+		},
+
+		{
+			"name": "Siksya Upreti",
+			"id": "141696102850642"
+		},
+
+		{
+			"name": "Gold D. Rai",
+			"id": "1422379628090290"
+		},
+
+		{
+			"name": "Suzzeet Shrestha",
+			"id": "896622920361992"
+		},
+
+		{
+			"name": "Jenish Maharjan",
+			"id": "10152338214966141"
+		},
+
+		{
+			"name": "Shivani Pradhan",
+			"id": "10153322699604143"
+		},
+
+		{
+			"name": "TmanZz PraXhant",
+			"id": "645882202208965"
+		},
+
+		{
+			"name": "Sazzon Zu",
+			"id": "734976773189332"
+		},
+
+		{
+			"name": "PalTsoma Bandanna",
+			"id": "872610029431765"
+		},
+
+		{
+			"name": "Tamang Prakash",
+			"id": "602680159845552"
+		},
+
+		{
+			"name": "RayZen Khadgi",
+			"id": "691316534272928"
+		},
+
+		{
+			"name": "Prabhat D. Acharya",
+			"id": "959927400703914"
+		},
+
+		{
+			"name": "Drey Thapa",
+			"id": "845628032135031"
+		},
+
+		{
+			"name": "Neha Kayastha",
+			"id": "693469277361509"
+		},
+
+		{
+			"name": "Samjhana Limbu",
+			"id": "1592390697648903"
+		},
+
+		{
+			"name": "Kanaiyaa D. Snow",
+			"id": "1019475958069700"
+		},
+
+		{
+			"name": "Kalash Shrestha",
+			"id": "895090840546994"
+		},
+
+		{
+			"name": "Pritam Gurung",
+			"id": "1561083114160636"
+		},
+
+		{
+			"name": "Ruzzall Ssadda",
+			"id": "830262983660874"
+		},
+
+		{
+			"name": "Samip Bajracharya",
+			"id": "1631372737141279"
+		},
+
+		{
+			"name": "Zeref Sama",
+			"id": "744970952217987"
+		},
+
+		{
+			"name": "Sulav Prasai",
+			"id": "785933818103082"
+		},
+
+		{
+			"name": "Nischal Maharjan",
+			"id": "283475785175558"
+		},
+
+		{
+			"name": "Sabitra Gautam",
+			"id": "218150858593180"
+		},
+
+		{
+			"name": "Biraj Kun",
+			"id": "677209922391379"
+		},
+
+		{
+			"name": "Miona Shahi",
+			"id": "912313982176128"
+		},
+
+		{
+			"name": "Aashish Lagun",
+			"id": "1563980507192547"
+		},
+
+		{
+			"name": "UmâŅg KayasTha",
+			"id": "876752539036198"
+		},
+
+		{
+			"name": "Gaurav Gus Shilpakar",
+			"id": "684103078302065"
+		},
+
+		{
+			"name": "Rounak Gurung",
+			"id": "185702385230090"
+		},
+
+		{
+			"name": "Hímal Uchíha Mägàř",
+			"id": "1578595249094450"
+		},
+
+		{
+			"name": "Samidha Shah",
+			"id": "452858521528015"
+		},
+
+		{
+			"name": "Pallaw Mgr",
+			"id": "1628564984063241"
+		},
+
+		{
+			"name": "Aayush Adhikari",
+			"id": "1619698088241991"
+		},
+
+		{
+			"name": "Sichu Shrestha",
+			"id": "1431565667159305"
+		},
+
+		{
+			"name": "Batsal Awaley",
+			"id": "840189582667601"
+		},
+
+		{
+			"name": "Suman Dura",
+			"id": "294989087365010"
 		}
+
 	]
 }
